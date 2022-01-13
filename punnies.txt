@@ -1,3 +1,5 @@
 "Forking hell."
 
-"You like you've been speaking gitterish." 
+"You like you've been speaking gitterish."
+
+"Ah, you've reverted to insanity, now commit to it." 
